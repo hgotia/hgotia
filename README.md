@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check my resume out at https://hgotia.github.io
+Check my resume/site out at https://hgotia.github.io
 
 Here are some ideas to get you started:
 
