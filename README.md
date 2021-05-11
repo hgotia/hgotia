@@ -12,6 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hgotia" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgotia&layout=compact" />
 </a>
+<p>
 <br/>
 
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white)
