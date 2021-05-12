@@ -17,10 +17,10 @@
 
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+  ![T-SQL](https://img.shields.io/badge/-TSQL-red?style=flat)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
-  ![T-SQL](https://img.shields.io/badge/-TSQL-red?style=flat)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=flat&logo=github&logoColor=white"/)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
