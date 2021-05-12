@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Currently in the Microsoft Software and Systems Academy as a Cloud Applications Developer Student
 - 🍌 &nbsp; Learning a lot about C#, .NET, MVC, SQL, and Web design.
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/hgotia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hgotia" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgotia&layout=compact" />
 </a>
