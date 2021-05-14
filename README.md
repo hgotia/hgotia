@@ -3,8 +3,6 @@
 <a href="mailto:hanzelgotia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hanzelgotia@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://hgotia.github.io"><img alt="Website" src="https://img.shields.io/badge/Resume-https://hgotia.github.io-blue"></a>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
 - 🎓 &nbsp; Currently in the Microsoft Software and Systems Academy as a Cloud Applications Developer Student
 - 🍌 &nbsp; Learning a lot about C#, .NET, MVC, SQL, and Web design.
 
